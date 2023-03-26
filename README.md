@@ -13,7 +13,7 @@
 
 
 ## About
- * A simple calculator desktop application built in Python with the Tkinter library. 
+ * A simple calculator desktop application built in Python with Tkinter library. 
  * It can be used for simple calculations, but it also has more advanced mathematical functions such as sinus, cosinus and common logarithm.
 
 ---
